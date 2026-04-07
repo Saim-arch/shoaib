@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shoaib/static/css/main.0c85d6fa.css",
+    "main.css": "/shoaib/static/css/main.7a35bcaa.css",
     "main.js": "/shoaib/static/js/main.7f567c12.js",
     "static/js/453.0ff3507f.chunk.js": "/shoaib/static/js/453.0ff3507f.chunk.js",
     "index.html": "/shoaib/index.html",
-    "main.0c85d6fa.css.map": "/shoaib/static/css/main.0c85d6fa.css.map",
+    "main.7a35bcaa.css.map": "/shoaib/static/css/main.7a35bcaa.css.map",
     "main.7f567c12.js.map": "/shoaib/static/js/main.7f567c12.js.map",
     "453.0ff3507f.chunk.js.map": "/shoaib/static/js/453.0ff3507f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c85d6fa.css",
+    "static/css/main.7a35bcaa.css",
     "static/js/main.7f567c12.js"
   ]
 }
